@@ -1,0 +1,25 @@
+D:\stm32\usb_hid\USB_window_form\USB_window_form\bin\Debug\USB_window_form.exe.config
+D:\stm32\usb_hid\USB_window_form\USB_window_form\bin\Debug\USB_window_form.exe
+D:\stm32\usb_hid\USB_window_form\USB_window_form\bin\Debug\USB_window_form.pdb
+D:\stm32\usb_hid\USB_window_form\USB_window_form\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+D:\stm32\usb_hid\USB_window_form\USB_window_form\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+D:\stm32\usb_hid\USB_window_form\USB_window_form\obj\Debug\USB_window_form.csprojResolveAssemblyReference.cache
+D:\stm32\usb_hid\USB_window_form\USB_window_form\obj\Debug\USB_window_form.Form1.resources
+D:\stm32\usb_hid\USB_window_form\USB_window_form\obj\Debug\USB_window_form.Properties.Resources.resources
+D:\stm32\usb_hid\USB_window_form\USB_window_form\obj\Debug\USB_window_form.csproj.GenerateResource.Cache
+D:\stm32\usb_hid\USB_window_form\USB_window_form\obj\Debug\USB_window_form.exe
+D:\stm32\usb_hid\USB_window_form\USB_window_form\obj\Debug\USB_window_form.pdb
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\bin\Debug\USB_window_form.exe.config
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\bin\Debug\USB_window_form.exe
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\bin\Debug\USB_window_form.pdb
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.csproj.AssemblyReference.cache
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.Form1.resources
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.Properties.Resources.resources
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.csproj.GenerateResource.cache
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.csproj.CopyComplete
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.exe
+C:\Users\yusuf\Downloads\Compressed\usbhidstm32-main\usbhidstm32-main\usb_hid\usb_hid\USB_window_form c#\USB_window_form\obj\Debug\USB_window_form.pdb

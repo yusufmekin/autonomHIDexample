@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "560edd01-d9c1-44e4-a431-b4766578c854": {
+      "ProjectGuid": "560edd01-d9c1-44e4-a431-b4766578c854",
+      "DisplayName": "USB_window_form",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
